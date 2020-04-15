@@ -1,0 +1,21 @@
+{
+  "name": "express-node-cli",
+  "version": "1.0.0",
+  "description": "a simple personal express framework demo",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-cli": "bin/cli"
+  },
+  "keywords": [],
+  "author": "lingkai",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^5.0.0"
+  }
+}
