@@ -1,7 +1,7 @@
 {
   "name": "express-node-cli",
-  "version": "1.0.0",
-  "description": "a simple personal express framework demo",
+  "version": "1.1.0",
+  "description": "这是一款能够快速帮你搭建express框架NodeJS项目的脚手架",
   "private": false,
   "license": "MIT",
   "scripts": {
