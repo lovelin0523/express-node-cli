@@ -1,6 +1,6 @@
 {
   "name": "express-node-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "这是一款能够快速帮你搭建express框架NodeJS项目的脚手架",
   "private": false,
   "license": "MIT",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "express-cli": "bin/cli"
+    "express-node-cli": "bin/cli"
   },
   "keywords": [],
   "author": "lingkai",
